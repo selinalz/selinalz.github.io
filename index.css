@@ -1,0 +1,32 @@
+body{
+	background-color: rgba(237,239,236);
+}
+
+.title{
+	position: absolute;
+	left: 10%;
+	top: 20%;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 700;
+	font-size: 50px;
+	color: #6DC06D;
+}
+
+.link {
+	padding-left: 10px;
+	color: black;
+	text-decoration: none;
+}
+
+.link:hover {
+	color: #6DC06D;
+}
+
+.list{
+	position: absolute;
+	left: 12%;
+	top: 40%;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 200;
+	font-size: 30px;
+}
