@@ -1,0 +1,73 @@
+body{
+	background-color: #edefec;
+}
+
+.title{
+	position: absolute;
+	left: 10%;
+	top: 20%;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 700;
+	font-size: 50px;
+	color: #6DC06D;
+}
+
+.link {
+	padding-left: 10px;
+	color: black;
+	text-decoration: none;
+}
+
+.link:hover {
+	color: #6DC06D;
+}
+
+.list{
+	position: absolute;
+	left: 12%;
+	top: 40%;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 200;
+	font-size: 30px;
+	text-transform: uppercase;
+}
+
+.list2{
+	position: absolute;
+	left: 12%;
+	top: 50%;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 200;
+	font-size: 30px;
+	text-transform: uppercase;
+}
+
+.list3{
+	position: absolute;
+	left: 12%;
+	top: 60%;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 200;
+	font-size: 30px;
+	text-transform: uppercase;
+}
+
+.list4{
+	position: absolute;
+	left: 12%;
+	top: 70%;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 200;
+	font-size: 30px;
+	text-transform: uppercase;
+}
+
+.list5{
+	position: absolute;
+	left: 12%;
+	top: 80%;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 200;
+	font-size: 30px;
+	text-transform: uppercase;
+}
